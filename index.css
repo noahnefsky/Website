@@ -1,6 +1,7 @@
 @import '~antd/dist/antd.css';
-h1 {
+#name {
   font-family: "Times New Roman", Times, serif;
-  font-size: 2em
+  font-size: 2em;
+  font-weight: lighter;
   text-align: center;
 }
