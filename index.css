@@ -1,16 +1,17 @@
 #name {
   font-family: "Times New Roman", Times, serif;
-  font-size: 8em;
+  font-size: 4em;
   font-weight: lighter;
   text-align: center;
 }
 
 #contact {
   font-family: "Times New Roman", Times, serif;
-  font-size: 2em;
+  font-size: 3em;
   font-weight: lighter;
   text-align: center;
   text-decoration: underline;
+  border-bottom: 5px solid;
 }
 img {
   border-radius: 50%;
@@ -18,7 +19,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 200px;
-  height: 200px;
+  height: 275px;
 }
 
   
