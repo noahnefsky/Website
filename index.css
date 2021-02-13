@@ -11,14 +11,14 @@
   font-weight: lighter;
   text-align: center;
   text-decoration: underline;
-  border-bottom: 5px solid;
+  border-bottom: 2px solid;
 }
 img {
   border-radius: 50%;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 200px;
+  width: 240px;
   height: 275px;
 }
 
