@@ -19,8 +19,9 @@ img {
 }
 
 .about {
-  width:350px;
-  align="center";
+  position: absolute;
+  left: 10%;
+  margin-right: 90%
 }
 
   
