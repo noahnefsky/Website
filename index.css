@@ -21,7 +21,13 @@ img {
 .about {
   position: absolute;
   left: 10%;
-  margin-right: 90%
+  margin-right: -90%
+}
+
+#me {
+  position: absolute;
+  left: 5%;
+  margin-right: -85%
 }
 
   
