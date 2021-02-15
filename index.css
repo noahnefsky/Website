@@ -6,6 +6,8 @@
 #contact {
   font-size: 2em;
   text-align: center;
+  text-decoration: underline;
+  border-bottom: 2px solid;
 }
 
 img {
