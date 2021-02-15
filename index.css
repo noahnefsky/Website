@@ -1,14 +1,10 @@
 #name {
-  font-family: "Times New Roman", Times, serif;
   font-size: 3em;
-  font-weight: lighter;
   text-align: center;
 }
 
 #contact {
-  font-family: "Times New Roman", Times, serif;
   font-size: 2em;
-  font-weight: lighter;
   text-align: center;
   text-decoration: underline;
   border-bottom: 2px solid;
