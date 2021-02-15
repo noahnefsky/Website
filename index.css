@@ -11,11 +11,7 @@
 img {
   border-radius: 50%;
   display: block;
-  position: fixed;
-  top: 10px;
-  left: 275px;
   width: 200px;
-  margin-left:15px;
 }
 
   
