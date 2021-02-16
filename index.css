@@ -18,7 +18,7 @@
 img {
   border-radius: 50%;
   display: block;
-  width: 265px;
+  width: 200px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -32,16 +32,19 @@ img {
 #me {
   font-size: 35;
   display: block;
-  width: 700px;
+  width: 750px;
+  
+
+  
 }
 
 #but {
-    padding: 30px 40px;
+    padding: 32px 42px;
     font-size: 40px;
-    font-weight: bold;
     line-height: normal;
     -webkit-border-radius: 8px;
        -moz-border-radius: 8px;
             border-radius: 8px;
     border: inset;
+    font-weight: bold;
 }
