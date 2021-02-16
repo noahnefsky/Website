@@ -5,37 +5,38 @@
 
 #name {
   font-size: 22px;
-  text-align: center;
+  position: relative;
+  left: 3%;
 }
 
 #contact {
   font-size: 18px;
-  text-align: center;
   border-bottom: 1px solid;
+  position: relative;
+  left: 3%;
   
 }
 
 #headshot {
   border-radius: 50%;
   display: block;
-  width: 130px;
-  margin-left: auto;
-  margin-right: auto;
+  width: 135px;
+  position: relative;
+  left: 3%;
+
 }
 
 .about {
-  position: absolute;
-  left: 3%;
+  position: fixed;
+  left: 40%;
+  top: 5%;
   
 }
 
 #me {
   font-size: 17;
   display: block;
-  width: 400px;
-  
-
-  
+  width: 800;
 }
 
 #but {
@@ -60,9 +61,4 @@
     display: flex;
     justify-content: center;
     flex-direction: row;
-}
-
-.tab-content {
-  position: fixed;
-  left: 38%;
 }
