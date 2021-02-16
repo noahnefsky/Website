@@ -29,13 +29,13 @@ img {
   
 }
 
-#me {
+#demo {
   margin-right: 75%;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 #but {
-    padding: 22px 32px;
+    padding: 27px 42px;
     font-size: 27px;
     line-height: normal;
     -webkit-border-radius: 8px;
