@@ -15,7 +15,7 @@
   
 }
 
-img {
+#headshot {
   border-radius: 50%;
   display: block;
   width: 130px;
@@ -47,4 +47,10 @@ img {
             border-radius: 8px;
     border: inset;
     font-weight: bold;
+}
+
+#UW {
+  position: absolute;
+  left: 3%;
+  width: 300px;
 }
