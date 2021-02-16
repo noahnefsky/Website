@@ -6,14 +6,13 @@
 #name {
   font-size: 22px;
   position: relative;
-  left: 0%;
+  padding-left: 71.5px;
 }
 
 #contact {
   font-size: 18px;
   border-bottom: 1px solid;
   position: relative;
-  left: 0%;
   
 }
 
@@ -21,7 +20,8 @@
   border-radius: 50%;
   display: block;
   width: 130px;
-  left: 0%;
+  position: relative;
+  left: 5%
 }
 
 .about {
