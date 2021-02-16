@@ -3,7 +3,7 @@
   border-style: inset;
   border-width: thick;
   border-color: #d1e6ff;
-  background-image: linear-gradient(white,#ebf4ff);
+  background-image: linear-gradient(#ebf4ff, white);
 }
 
 #name {
@@ -38,7 +38,7 @@
 }
 
 #UW {
-  width: 250px;
+  width: 230px;
   position: fixed;
   left: 5%;
   bottom: 5%;
