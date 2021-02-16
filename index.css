@@ -4,12 +4,12 @@
 }
 
 #name {
-  font-size: 4em;
+  font-size: 3em;
   text-align: center;
 }
 
 #contact {
-  font-size: 3em;
+  font-size: 2em;
   text-align: center;
   border-bottom: 2px solid;
   
@@ -18,7 +18,7 @@
 img {
   border-radius: 50%;
   display: block;
-  width: 265px;
+  width: 175px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -30,7 +30,7 @@ img {
 }
 
 #me {
-  font-size: 35;
+  font-size: 30;
   display: block;
   width: 750px;
   
@@ -39,8 +39,8 @@ img {
 }
 
 #but {
-    padding: 32px 42px;
-    font-size: 40px;
+    padding: 22px 32px;
+    font-size: 35px;
     line-height: normal;
     -webkit-border-radius: 8px;
        -moz-border-radius: 8px;
