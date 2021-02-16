@@ -31,11 +31,12 @@ img {
 
 #me {
   margin-right: 75%;
+  font-size: 20px;
 }
 
 #but {
-    padding: 18px 28px;
-    font-size: 25px;
+    padding: 22px 32px;
+    font-size: 27px;
     line-height: normal;
     -webkit-border-radius: 8px;
        -moz-border-radius: 8px;
