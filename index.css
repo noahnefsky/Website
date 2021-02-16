@@ -6,29 +6,29 @@
 #name {
   font-size: 22px;
   position: relative;
-  left: 3%;
+  padding-left: 71.5px;
+  left: 5%;
 }
 
 #contact {
   font-size: 18px;
   border-bottom: 1px solid;
   position: relative;
-  left: 3%;
+  left: 5%;
   
 }
 
 #headshot {
   border-radius: 50%;
   display: block;
-  width: 135px;
+  width: 130px;
   position: relative;
-  left: 3%;
-
+  left: 14.5%;
 }
 
 .about {
   position: fixed;
-  left: 40%;
+  left: 59%;
   top: 5%;
   
 }
@@ -36,7 +36,7 @@
 #me {
   font-size: 17;
   display: block;
-  width: 720;
+  width: 550;
 }
 
 #but {
