@@ -1,19 +1,19 @@
 #body {
   background-color: #EEFBFB;
   color: black;
-  border: inset;
+  border-style: inset;
+  background-image: linear-gradient(white,#dddff7);
 }
 
 #name {
   font-size: 22px;
-  position: relative;
-  padding-left: 71.5px;
+  text-align: center;
 }
 
 #contact {
   font-size: 18px;
   border-bottom: 1px solid;
-  position: relative;
+  text-align: center;
   
 }
 
@@ -21,21 +21,8 @@
   border-radius: 50%;
   display: block;
   width: 130px;
-  position: relative;
-  left: 5%
-}
-
-.about {
-  position: fixed;
-  left: 59%;
-  top: 1%;
-  
-}
-
-#me {
-  font-size: 17;
-  display: block;
-  width: 530;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #but {
@@ -60,4 +47,17 @@
     display: flex;
     justify-content: center;
     flex-direction: row;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+  
+}
+.fa {
+  text-align: center;
+  text-decoration: none;
+  color: #0e76a8;
+  border: double;
+}
+.fa:hover {
+  opacity: 0.6;
 }
