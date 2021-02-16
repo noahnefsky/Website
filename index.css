@@ -2,12 +2,12 @@
   background-color: #CDCDCD;
 }
 #name {
-  font-size: 3em;
+  font-size: 4em;
   text-align: center;
 }
 
 #contact {
-  font-size: 2em;
+  font-size: 3em;
   text-align: center;
   text-decoration: underline;
   border-bottom: 2px solid;
@@ -16,7 +16,7 @@
 img {
   border-radius: 50%;
   display: block;
-  width: 200px;
+  width: 225px;
   margin-left: auto;
   margin-right: auto;
 }
