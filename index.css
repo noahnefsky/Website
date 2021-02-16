@@ -4,12 +4,12 @@
 }
 
 #name {
-  font-size: 26px;
+  font-size: 22px;
   text-align: center;
 }
 
 #contact {
-  font-size: 20px;
+  font-size: 18px;
   text-align: center;
   border-bottom: 1px solid;
   
@@ -39,8 +39,8 @@
 }
 
 #but {
-    padding: 15px 25px;
-    font-size: 20px;
+    padding: 12px 22px;
+    font-size: 18px;
     line-height: normal;
     -webkit-border-radius: 8px;
        -moz-border-radius: 8px;
@@ -50,14 +50,19 @@
 }
 
 #UW {
-  width: 350px;
+  width: 250px;
   position: fixed;
   left: 5%;
-  top: 5%;
+  bottom: 5%;
 }
 
 .nav-tabs {
     display: flex;
     justify-content: center;
     flex-direction: row;
+}
+
+.tab-content {
+  position: fixed;
+  left: 38%;
 }
