@@ -1,6 +1,7 @@
 #body {
   background-color: #EEFBFB;
   color: black;
+  border: inset;
 }
 
 #name {
