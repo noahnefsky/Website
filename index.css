@@ -30,8 +30,9 @@ img {
 }
 
 #demo {
-  margin-right: 75%;
-  font-size: 22px;
+  font-size: 20;
+  display: block;
+  width: 600px;
 }
 
 #but {
