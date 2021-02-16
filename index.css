@@ -9,12 +9,19 @@
 #name {
   font-size: 22px;
   text-align: center;
+  color: #black;
+  text-transform: uppercase;
+  text-shadow: -2.2px 0.73px 2.9px grey;
+  font-family: 'Anton', times, sans-serif;
+  font-size: 22px;
+  transition: 0.25s ease-in;
 }
 
 #contact {
-  font-size: 18px;
+  font-size: 17px;
   border-bottom: 1px solid;
   text-align: center;
+  font-family: 'Anton', times, sans-serif;
   
 }
 
@@ -41,7 +48,7 @@
   width: 230px;
   position: fixed;
   left: 5%;
-  bottom: 5%;
+  bottom: 2%;
 }
 
 .nav-tabs {
