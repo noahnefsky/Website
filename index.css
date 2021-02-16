@@ -1,32 +1,44 @@
-#col {
+#body {
   background-color: #CDCDCD;
+  color: black;
 }
+
 #name {
-  font-size: 4em;
+  font-size: 3em;
   text-align: center;
 }
 
 #contact {
-  font-size: 3em;
+  font-size: 2em;
   text-align: center;
   border-bottom: 2px solid;
+  
 }
 
 img {
   border-radius: 50%;
   display: block;
-  width: 225px;
+  width: 200px;
   margin-left: auto;
   margin-right: auto;
 }
 
 .about {
   position: absolute;
-  left: 5%;
+  left: 3%;
+  
 }
 
 #me {
-  margin-right: 70%
+  margin-right: 75%;
 }
 
-  
+#but {
+    padding: 18px 28px;
+    font-size: 25px;
+    line-height: normal;
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;
+    border: inset;
+}
