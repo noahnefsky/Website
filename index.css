@@ -2,8 +2,8 @@
   color: black;
   border-style: inset;
   border-width: thick;
-  border-color: #d1e6ff;
-  background-image: linear-gradient(white, #E8E8E8);
+  border-color: #F5F5F5;
+  background-image: linear-gradient(white, #F5F5F5);
 }
 
 #name {
