@@ -46,11 +46,11 @@
 
 #UW {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
   width: 175px;
   position: fixed;
   bottom: 2.5%;
+  left: 50%;
+  right: 50%;
 }
 
 .nav-tabs {
