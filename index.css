@@ -60,6 +60,14 @@
     font-family: Georgia, sans-serif;  
 }
 
+#about {
+  font-family: Georgia, sans-serif;  
+  font-size: 20px;
+  width: 1200px;
+  line-height: 48px;
+  margin-left: auto;
+  margin-right: auto;
+}
 .tab-content {
   font-family: Georgia, sans-serif;
 }
