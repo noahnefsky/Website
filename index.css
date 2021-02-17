@@ -47,7 +47,8 @@
 #UW {
   width: 175px;
   position: fixed;
-  left: 5%;
+  margin-left: auto;
+  margin-right: auto;
   bottom: 2.5%;
 }
 
