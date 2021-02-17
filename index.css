@@ -45,9 +45,16 @@
 }
 
 #UW {
-  width: 210px;
+  width: 175px;
   position: fixed;
   left: 5%;
+  bottom: 1.5%;
+}
+
+#baseball {
+  width: 175px;
+  position: fixed;
+  right: 5%;
   bottom: 1.5%;
 }
 
