@@ -52,10 +52,10 @@
 }
 
 #baseball {
-  width: 110px;
+  width: 125px;
   position: fixed;
   right: 5%;
-  bottom: 1%;
+  top: 40%;
   border-radius: 30%;
 }
 
