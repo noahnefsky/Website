@@ -53,11 +53,10 @@
 }
 
 #baseball {
-  width: 125px;
+  width: 175px;
   position: fixed;
-  right: 5%;
-  top: 40%;
-  border-radius: 30%;
+  margin-left: auto;
+  margin-right: auto; 30%;
 }
 
 .nav-tabs {
