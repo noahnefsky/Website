@@ -52,13 +52,6 @@
   bottom: 2.5%;
 }
 
-#baseball {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 250px;
-}
-
 .nav-tabs {
     display: flex;
     justify-content: center;
