@@ -3,25 +3,25 @@
   border-style: inset;
   border-width: thick;
   border-color: #d1e6ff;
-  background-image: linear-gradient(#ebf4ff, white);
+  background-image: linear-gradient(white, #ebf4ff);
 }
 
-#name {
-  font-size: 22px;
-  text-align: center;
-  color: #black;
-  text-transform: uppercase;
-  text-shadow: -2.2px 0.73px 2.9px grey;
-  font-family: 'Anton', times, sans-serif;
-  font-size: 22px;
-  transition: 0.25s ease-in;
+.name {
+    font-size: 24px;
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+    font-family: Georgia, sans-serif;
+    font-weight: bold;
+  letter-spacing: 1px;
 }
 
 #contact {
   font-size: 17px;
   border-bottom: 1px solid;
   text-align: center;
-  font-family: 'Anton', times, sans-serif;
+  font-family: Georgia, sans-serif;
+  letter-spacing: 0.75px;
   
 }
 
@@ -48,7 +48,7 @@
   width: 230px;
   position: fixed;
   left: 5%;
-  bottom: 2%;
+  bottom: 5%;
 }
 
 .nav-tabs {
@@ -56,9 +56,12 @@
     justify-content: center;
     flex-direction: row;
     font-size: 16px;
-    font-style: italic;
     font-weight: bold;
-  
+    font-family: Georgia, sans-serif;  
+}
+
+.tab-content {
+  font-family: Georgia, sans-serif;
 }
 .fa {
   text-align: center;
@@ -66,9 +69,3 @@
   color: #0e76a8;
   border: double;
 }
-
-
-.fa:hover {
-  opacity: 0.6;
-}
-
