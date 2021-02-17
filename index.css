@@ -60,6 +60,9 @@
     font-family: Georgia, sans-serif;  
 }
 
+#lines {
+  line-height: 36px;
+}
 #about {
   font-family: Georgia, sans-serif;  
   font-size: 20px;
