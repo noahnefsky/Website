@@ -60,20 +60,19 @@
     font-family: Georgia, sans-serif;  
 }
 
-#lines {
-  line-height: 36px;
-}
 #about {
   font-family: Georgia, sans-serif;  
-  font-size: 20px;
-  width: 1200px;
+  font-size: 12px;
+  width: 1000px;
   line-height: 48px;
   margin-left: auto;
   margin-right: auto;
 }
+
 .tab-content {
   font-family: Georgia, sans-serif;
 }
+
 .fa {
   text-align: center;
   text-decoration: none;
