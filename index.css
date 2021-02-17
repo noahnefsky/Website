@@ -7,17 +7,17 @@
 }
 
 #name {
-    font-size: 24px;
+    font-size: 22px;
     text-align: center;
     color: black;
     text-transform: uppercase;
     font-family: Georgia, sans-serif;
     font-weight: bold;
-  letter-spacing: 1px;
+    letter-spacing: 1px;
 }
 
 #contact {
-  font-size: 17px;
+  font-size: 15px;
   border-bottom: 1px solid;
   text-align: center;
   font-family: Georgia, sans-serif;
@@ -35,7 +35,7 @@
 
 #but {
     padding: 12px 22px;
-    font-size: 18px;
+    font-size: 16px;
     line-height: normal;
     -webkit-border-radius: 8px;
        -moz-border-radius: 8px;
@@ -55,7 +55,7 @@
     display: flex;
     justify-content: center;
     flex-direction: row;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: bold;
     font-family: Georgia, sans-serif;  
 }
