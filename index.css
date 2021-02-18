@@ -1,5 +1,12 @@
+html {
+  width: 100%;
+  margin: 0px;
+}
 #body {
   color: black;
+  width: 90%;
+  min-width: 500px;
+  margin: auto;
   border-style: inset;
   border-width: thick;
   border-color: #F5F5F5;
@@ -28,7 +35,7 @@
 #headshot {
   border-radius: 50%;
   display: block;
-  width: 130px;
+  width: 9.6%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -45,11 +52,9 @@
 }
 
 #UW {
+  width: 13%;
+  margin: auto;
   display: block;
-  width: 175px;
-  position: fixed;
-  bottom: 2.5%;
-  left: 43%;
 }
 
 .nav-tabs {
