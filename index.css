@@ -1,8 +1,5 @@
 #body {
   color: black;
-  width: 100%;
-  margin: 0px;
-  min-width: 500px;
   margin: auto;
   border-style: inset;
   border-width: thick;
@@ -10,6 +7,10 @@
   background-image: linear-gradient(white, #F5F5F5);
 }
 
+.all {
+  width: 90%;
+  margin: 0px;
+}
 #name {
     font-size: 22px;
     text-align: center;
