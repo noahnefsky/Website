@@ -1,2 +1,2 @@
-# noahnefsky.github.io
+# noahnefsky.com
 Personal Website
